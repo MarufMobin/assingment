@@ -122,3 +122,126 @@ header .menu ul li a{
     margin: 0px 0px 40px;
 }
 /* About section code css end here */
+
+/* recipies-section code start here */
+.recipies-section{
+    width: 100%;
+    padding: 80px 0px;
+}
+.recipies-section .recipies-fist{
+    width: 100%;
+    text-align: center;
+}
+.recipies-section .recipies-fist h1{
+    font-size: 42px;
+    font-weight: 700;
+    margin: 0px 0px 40px;
+}
+.recipies-section .recipies-fist p{
+    width: 50%;
+    margin: 0px auto 50px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+.recipies-inner{
+    width: 100%;
+    display: flex;
+}
+.recipies-inner .recipies-inner-fist{
+    width: 25%;
+    margin: 4%;
+    padding: 30px;
+    border-radius: 35px;
+    box-shadow: 6px 7px 30px black;
+}
+.recipies-inner .recipies-inner-fist img{
+    width: 100%;
+}
+.recipies-inner .recipies-inner-fist h3{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 20px 0px;
+}
+.recipies-inner .recipies-inner-fist p{
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 1.2px;
+    font-weight: 600;
+}
+.recipies-inner .recipies-inner-second{
+    width: 25%;
+    margin: 4%;
+    padding: 30px;
+    border-radius: 35px;
+    box-shadow: 10px 10px 45px black;
+}
+.recipies-inner .recipies-inner-second img{
+    width: 100%;
+}
+.recipies-inner .recipies-inner-second h3{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 20px 0px;
+}
+.recipies-inner .recipies-inner-second p{
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 1.2px;
+    font-weight: 600;
+}
+
+.recipies-inner .recipies-inner-third{
+    width: 25%;
+    margin: 4%;
+    padding: 30px;
+    border-radius: 35px;
+    box-shadow: 10px 10px 45px black;
+}
+.recipies-inner .recipies-inner-third img{
+    width: 100%;
+
+}
+.recipies-inner .recipies-inner-third h3{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 20px 0px;
+}
+.recipies-inner .recipies-inner-third p{
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 1.2px;
+    font-weight: 600;
+}
+/* recipies-section code end here */
+
+/* counting-section code start here */
+.counting-section{
+    width: 100%;
+    margin: 80px 0px;
+}
+.counting-section .container{
+    width: 85%;
+    display: flex;
+    margin: 0px auto;
+    padding: 3%;
+    box-shadow: 10px 10px 40px black;
+    border-radius: 30px;
+
+}
+.counting-section .container .inner-container{
+    width: 25%;
+    padding: 40px;
+    text-align: center;
+}
+.counting-section .container .inner-container h3{
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0px 0px 30px;
+}
+.counting-section .container .inner-container p{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* counting-section code end here */
