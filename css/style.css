@@ -69,7 +69,6 @@ header .menu ul li a{
 .banner-section{
     width: 100%;
     display: flex;
-    background-image: url("../images/");
 }
 .banner-section .half-banner{
     width: 50%;
@@ -91,3 +90,35 @@ header .menu ul li a{
     margin: 40px 0px 0px;
 }
 /* banner-section code end here */
+
+/* About section code css start here */
+.about-section{
+    width: 100%;
+    display: flex;
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 50px  0px;
+}
+.about-section .another-half-banner{
+    width: 50%;
+}
+.about-section .another-half-banner img{
+    width: 50%;
+    padding:  60px 60px 0px;
+}
+.about-section .half-banner{
+    width: 50%;
+    padding: 80px;
+}
+.about-section .half-banner h2{
+    font-size: 42px;
+    margin: 100px 0px 40px;
+}
+.about-section .half-banner p{
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 1.3px;
+    margin: 0px 0px 40px;
+}
+/* About section code css end here */
