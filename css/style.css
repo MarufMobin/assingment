@@ -108,6 +108,7 @@ header .menu ul li a{
 .about-section .another-half-banner img{
     width: 50%;
     padding:  60px 60px 0px;
+    margin-left: 50px;
 }
 .about-section .half-banner{
     width: 50%;
@@ -155,7 +156,7 @@ header .menu ul li a{
     margin: 4%;
     padding: 30px;
     border-radius: 35px;
-    box-shadow: 6px 7px 30px black;
+    box-shadow: 1px 7px 30px #8e8e8e;
 }
 .recipies-inner .recipies-inner-fist img{
     width: 100%;
@@ -176,7 +177,7 @@ header .menu ul li a{
     margin: 4%;
     padding: 30px;
     border-radius: 35px;
-    box-shadow: 10px 10px 45px black;
+    box-shadow: 1px 7px 30px #8e8e8e;
 }
 .recipies-inner .recipies-inner-second img{
     width: 100%;
@@ -198,7 +199,7 @@ header .menu ul li a{
     margin: 4%;
     padding: 30px;
     border-radius: 35px;
-    box-shadow: 10px 10px 45px black;
+    box-shadow: 1px 7px 30px #8e8e8e;
 }
 .recipies-inner .recipies-inner-third img{
     width: 100%;
@@ -227,9 +228,8 @@ header .menu ul li a{
     display: flex;
     margin: 0px auto 40px;
     padding: 3%;
-    box-shadow: 10px 10px 40px black;
+    box-shadow: 1px 7px 30px #8e8e8e;
     border-radius: 30px;
-
 }
 .counting-section .container .inner-container{
     width: 25%;
@@ -246,7 +246,7 @@ header .menu ul li a{
     font-weight: 600;
 }
 .border{
-    border-right: 5px solid #000;
+    border-right: 3px solid #000;
 }
 /* counting-section code end here */
 
@@ -283,7 +283,7 @@ header .menu ul li a{
 .contactus-section .wrapper form{
     border: 5px solid #fff;
     padding: 40px;
-    /* border-radius: 30px; */
+    border-radius: 30px;
 }
 .contactus-section .wrapper .input-dec{
     padding: 15px 40px;
@@ -294,7 +294,7 @@ header .menu ul li a{
 }
 .contactus-section .wrapper .input-dec::placeholder{
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 500;
     color: #000;
 }
 /*  contactus-section css code end here */
