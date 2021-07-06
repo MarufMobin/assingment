@@ -220,12 +220,12 @@ header .menu ul li a{
 /* counting-section code start here */
 .counting-section{
     width: 100%;
-    margin: 80px 0px;
+    margin: 40px 0px 150px;
 }
 .counting-section .container{
     width: 85%;
     display: flex;
-    margin: 0px auto;
+    margin: 0px auto 40px;
     padding: 3%;
     box-shadow: 10px 10px 40px black;
     border-radius: 30px;
@@ -256,6 +256,7 @@ header .menu ul li a{
     width: 100%;
     display: flex;
     padding: 80px 0px;
+    margin: 40px 0px 0px;
     background-color: #FC8C48;
     /* background-image: url("../images/background.jpg");
     background-size: cover;
